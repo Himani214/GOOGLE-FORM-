@@ -24,16 +24,20 @@ This project connects **Google Forms** with **n8n** to send automatic emails to 
 ## 📸 Screenshots  
 
 ### 1. Google Form Setup  
-![Google Form Screenshot](attachments/XqSFdjyV44H2ckA6V9tXN.png)  
+![Google Form Screenshot]<img width="1883" height="915" alt="FORM SCREENSHOT 3" src="https://github.com/user-attachments/assets/c9013e47-deed-46c8-b516-19f09d408cb2" />
+
 
 ### 2. Responses in Google Sheets  
-![Google Sheets Screenshot](attachments/RyKqoDDD8PZ11kFceg18F.png)  
+![Google Sheets Screenshot]<img width="1903" height="912" alt="FORM SCREENSHOT 4" src="https://github.com/user-attachments/assets/b178e7fb-1bb5-4253-986d-b4353b49f0a8" />
+
 
 ### 3. n8n Workflow Automation  
-![n8n Workflow Screenshot](attachments/Ybjzq9kQ7o7bE1qJq8Pkr.png)  
+![n8n Workflow Screenshot] <img width="1900" height="910" alt="FORM SCREENSHOT 2" src="https://github.com/user-attachments/assets/81cea360-5568-4dcd-ba87-a902dbc34813" />
+
 
 ### 4. Automated Email Sent via Gmail  
-![Gmail Screenshot](attachments/GxhkyimhdCAc1GpQYDgnf.png)  
+![Gmail Screenshot]<img width="1902" height="898" alt="FORM SCREENSHOT 1" src="https://github.com/user-attachments/assets/0fd640ad-3d38-4168-8880-5f6d19e5317b" />
+
 
 ---
 
